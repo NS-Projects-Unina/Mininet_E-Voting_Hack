@@ -1,0 +1,7 @@
+flask>=2.3.0
+flask-cors>=4.0.0
+scapy>=2.5.0
+requests>=2.31.0
+NetfilterQueue>=1.1.0
+cryptography>=41.0.0
+colorama>=0.4.6
